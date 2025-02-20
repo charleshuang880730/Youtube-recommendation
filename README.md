@@ -1,7 +1,7 @@
 ### **YouTube Highlight Extraction & Recommendation Web App**  
 
 Check out our demo:
-[![Watch the Demo]](https://django-demo-uurkbxheva-de.a.run.app/path/)
+[[Where Geng]](https://django-demo-uurkbxheva-de.a.run.app/path/)
 
 This project is a backend system for extracting highlights and recommending key moments from YouTube videos based on subtitles and user comments. The system integrates natural language processing (NLP) and deep learning techniques to analyze and extract meaningful segments.  
 
